@@ -1,0 +1,26 @@
+{
+  "name": "localdev.jsonserver",
+  "version": "1.0.0",
+  "description": "local instance of json server for use with multiple test projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/agent-simon-s/localdev.JSONserver.git"
+  },
+  "keywords": [
+    "JSON",
+    "server",
+    "test",
+    "mock",
+    "localdev"
+  ],
+  "author": "sjds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agent-simon-s/localdev.JSONserver/issues"
+  },
+  "homepage": "https://github.com/agent-simon-s/localdev.JSONserver#readme"
+}
